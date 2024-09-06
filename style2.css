@@ -1,0 +1,6 @@
+@media screen and (max-width:900px) {
+
+    .menu ul{
+        width: 0;
+    }
+}
